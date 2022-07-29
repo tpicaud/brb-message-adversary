@@ -1,0 +1,17 @@
+[package]
+name = "thread"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+p256 = "0.11.1"             # for ECDSA signatures
+rand_core = "0.6.3"         # for generating random key pairs
+sec1 = "0.3.0"              # for serializing public keys into byte encoded points
+rand = "0.8.5"              # for random number generation
+hex = "0.4.3"               # for readable signatures
+file_indexing = "0.4.0"     # for editing files
+csv = "1.1.6"               # for handle csv files
+log = "0.4.17"              # for log file
+log4rs = "1.1.1"        # for log file

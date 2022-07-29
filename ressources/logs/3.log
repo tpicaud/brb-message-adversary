@@ -1,0 +1,16 @@
+INFO - process initiated
+INFO - Bundle received: (message: 'f', sn: 0, id: 0) with 3 signatures
+INFO - New pending message --> (message: 'f', sn: 0, id: 0)
+INFO - Bundle signatures saved: 3
+INFO - Message delivered --> (message: 'f', sn: 0, id: 0)
+INFO - Bundle received: (message: 'f', sn: 0, id: 0) with 3 signatures
+INFO - Creating new bundle with message: fe
+INFO - New pending message --> (message: 'fe', sn: 0, id: 3)
+INFO - Message signed --> (message: 'fe', sn: 0, id: 3)
+INFO - Bundle sent to broadcast function: (message: 'fe', sn: 0, id: 3)
+INFO - Bundle received: (message: 'fe', sn: 0, id: 3) with 2 signatures
+INFO - Bundle signatures saved: 1
+INFO - Bundle received: (message: 'fe', sn: 0, id: 3) with 3 signatures
+INFO - Bundle signatures saved: 1
+INFO - Message delivered --> (message: 'fe', sn: 0, id: 3)
+INFO - Bundle received: (message: 'fe', sn: 0, id: 3) with 3 signatures

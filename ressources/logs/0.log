@@ -1,0 +1,31 @@
+INFO - process initiated
+INFO - Bundle received: (message: 'f', sn: 0, id: 1) with 1 signatures
+INFO - New pending message --> (message: 'f', sn: 0, id: 1)
+INFO - Bundle signatures saved: 1
+INFO - Message signed --> (message: 'f', sn: 0, id: 1)
+INFO - Bundle sent to broadcast function: (message: 'f', sn: 0, id: 1)
+INFO - Bundle received: (message: 'f', sn: 0, id: 1) with 2 signatures
+INFO - Bundle signatures saved: 1
+INFO - Message delivered --> (message: 'f', sn: 0, id: 1)
+INFO - Bundle received: (message: 'f', sn: 0, id: 1) with 2 signatures
+INFO - Bundle received: (message: 'f', sn: 0, id: 1) with 3 signatures
+INFO - Bundle received: (message: 'ello', sn: 1, id: 1) with 1 signatures
+INFO - New pending message --> (message: 'ello', sn: 1, id: 1)
+INFO - Bundle signatures saved: 1
+INFO - Message signed --> (message: 'ello', sn: 1, id: 1)
+INFO - Bundle sent to broadcast function: (message: 'ello', sn: 1, id: 1)
+INFO - Bundle received: (message: 'ello', sn: 1, id: 1) with 2 signatures
+INFO - Bundle signatures saved: 1
+INFO - Message delivered --> (message: 'ello', sn: 1, id: 1)
+INFO - Bundle received: (message: 'ello', sn: 1, id: 1) with 2 signatures
+INFO - Bundle received: (message: 'ello', sn: 1, id: 1) with 3 signatures
+INFO - Creating new bundle with message: hello
+INFO - New pending message --> (message: 'hello', sn: 0, id: 0)
+INFO - Message signed --> (message: 'hello', sn: 0, id: 0)
+INFO - Bundle sent to broadcast function: (message: 'hello', sn: 0, id: 0)
+INFO - Bundle received: (message: 'hello', sn: 0, id: 0) with 2 signatures
+INFO - Bundle signatures saved: 1
+INFO - Message delivered --> (message: 'hello', sn: 0, id: 0)
+INFO - Bundle received: (message: 'hello', sn: 0, id: 0) with 2 signatures
+INFO - Bundle received: (message: 'hello', sn: 0, id: 0) with 3 signatures
+INFO - Bundle received: (message: 'hello', sn: 0, id: 0) with 3 signatures
